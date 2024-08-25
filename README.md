@@ -1,6 +1,5 @@
 # gulimall-front
-谷粒商城前端
-
+谷粒商城前端,以renren-fast-vue为脚手架：https://github.com/renrenio/renren-fast-vue
 ## 1.快速开始
 
 ### 1.1 环境
